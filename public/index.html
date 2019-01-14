@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" 
+      type="image/png" 
+      href="/favicon.co" />
+
+    <title>mentech</title>
+
+
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+
+
+    <link href="assets/css/main.css" rel="stylesheet">
+	
+
+
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">mentech</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="index.html">HOME</a></li>
+            <li><a id="sign-in">LOG IN</a></li>
+            <li><a data-toggle="modal" data-target="#myModal" href="#myModal">CONTACT</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+	<div id="headerwrap">
+		<div class="container">
+			<div class="row centered">
+				<div class="col-lg-8 col-lg-offset-2">
+							<img src="assets/img/mind-gears.png">
+							<h1><b><spam>ment</spam>ech</b></h1>
+				<h2>Tech for your mind and soul.</h2>
+				</div>
+			</div><!-- row -->
+		
+		</div><!-- container -->
+	</div><!-- headerwrap -->
+
+
+	<div class="container w">
+		<div class="row centered">
+			<br><br>
+			<div class="col-lg-4"><center>
+				<img src="assets/img/augmented-reality.png">
+				<h4>IMMERSIVE</h4>
+				<p>Mentech gives you a therapy session expereince from the comfort of your home. By utilizing an augmented reality stimulation we are able to collect data that is most accurately linked to reality. </p>
+			</center></div><!-- col-lg-4 -->
+
+			<div class="col-lg-4"><center>
+				<img src="assets/img/accept-circular-button-outline.png">
+				<h4>EASY-TO-USE</h4>
+				<p>Once you register on our website and download the Mentech VR App, we take care of everything else. All you need to do is enter the simulation and the analysis of your data will immediately available to you on your dashboard online.</p>
+			</center></div><!-- col-lg-4 -->
+
+			<div class="col-lg-4"><center>
+				<img src="assets/img/team.png">
+				<h4>COLLABORATIVE</h4>
+				<p>After you receive your diagnosis we also provide contacts and resources from your local community that can give you the help you need. </p>
+			</center></div><!-- col-lg-4 -->
+		</div><!-- row -->
+		<br>
+		<br>
+	</div><!-- container -->
+
+
+	<!-- FEATURE SECTION -->
+	<div class="container wb">
+		<div class="row centered">
+			<br><br>
+			<div class="col-lg-8 col-lg-offset-2">
+				<h1><center><b>CREATED AT</b></center></h1>
+			</div>
+			<div class="col-lg-10 col-lg-offset-1">
+				<img class="img-responsive" src="assets/img/munter.png" alt="">
+			</div>
+		</div><!-- row -->
+	</div><!-- container -->
+	
+	
+	<!-- FOOTER -->
+	<div id="f">
+		<div class="container">
+			<div class="row centered"><center>
+				<a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-dribbble"></i></a>
+		</center>
+			</div><!-- row -->
+		</div><!-- container -->
+	</div><!-- Footer -->
+
+
+	<!-- MODAL FOR CONTACT -->
+	<!-- Modal -->
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+	        <h4 class="modal-title" id="myModalLabel">Contact us</h4>
+	      </div>
+	      <div class="modal-body">
+		        <div class="row centered"><center>
+		        	<p>We are available 24/7, so don't hesitate to contact us.</p>
+		        	<p>
+		        		200 University Ave W<br/>
+						Waterloo, ON<br/>
+						647-545-7253<br/>
+						mira.yadav620@gmail.com
+		        	</p></center>
+		    
+	    </div><!-- /.modal-content -->
+	  </div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+</div>
+      </div>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    
+    <script src="https://www.gstatic.com/firebasejs/3.4.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyC5KJKcqTy7SjBMrrB80n2n_GU_igyw1Nc",
+    authDomain: "mentech-6d83c.firebaseapp.com",
+    databaseURL: "https://mentech-6d83c.firebaseio.com",
+    storageBucket: "mentech-6d83c.appspot.com",
+    messagingSenderId: "148959958350"
+  };
+  firebase.initializeApp(config);
+</script>
+	<script src="main.js"></script>
+    </body>
+</html>

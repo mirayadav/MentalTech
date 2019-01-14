@@ -1,0 +1,134 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase --debug serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.5.0
+[debug] Time:         Sat Sep 17 2016 22:32:42 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/akshayadinesh/Downloads/Tutorial-master/Landing page
+[debug] TypeError: Cannot read property 'public' of undefined
+    at Server.<anonymous> (/usr/local/lib/node_modules/firebase-tools/commands/serve.js:26:15)
+    at Server.g (events.js:260:16)
+    at emitNone (events.js:67:13)
+    at Server.emit (events.js:166:7)
+    at emitListeningNT (net.js:1276:10)
+    at nextTickCallbackWith1Arg (node.js:431:9)
+    at process._tickCallback (node.js:353:17)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.5.0
+[debug] Time:         Sat Sep 17 2016 22:34:30 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/akshayadinesh/Downloads/Tutorial-master/Landing page
+[debug] TypeError: Cannot read property 'public' of undefined
+    at Server.<anonymous> (/usr/local/lib/node_modules/firebase-tools/commands/serve.js:26:15)
+    at Server.g (events.js:260:16)
+    at emitNone (events.js:67:13)
+    at Server.emit (events.js:166:7)
+    at emitListeningNT (net.js:1276:10)
+    at nextTickCallbackWith1Arg (node.js:431:9)
+    at process._tickCallback (node.js:353:17)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase --debug serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.5.0
+[debug] Time:         Sat Sep 17 2016 22:34:40 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/akshayadinesh/Downloads/Tutorial-master/Landing page
+[debug] TypeError: Cannot read property 'public' of undefined
+    at Server.<anonymous> (/usr/local/lib/node_modules/firebase-tools/commands/serve.js:26:15)
+    at Server.g (events.js:260:16)
+    at emitNone (events.js:67:13)
+    at Server.emit (events.js:166:7)
+    at emitListeningNT (net.js:1276:10)
+    at nextTickCallbackWith1Arg (node.js:431:9)
+    at process._tickCallback (node.js:353:17)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.5.0
+[debug] Time:         Sat Sep 17 2016 22:35:53 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/akshayadinesh/Downloads/Tutorial-master/Landing page
+[debug] TypeError: Cannot read property 'public' of undefined
+    at Server.<anonymous> (/usr/local/lib/node_modules/firebase-tools/commands/serve.js:26:15)
+    at Server.g (events.js:260:16)
+    at emitNone (events.js:67:13)
+    at Server.emit (events.js:166:7)
+    at emitListeningNT (net.js:1276:10)
+    at nextTickCallbackWith1Arg (node.js:431:9)
+    at process._tickCallback (node.js:353:17)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase --debug serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.5.0
+[debug] Time:         Sat Sep 17 2016 22:36:05 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/akshayadinesh/Downloads/Tutorial-master/Landing page
+[debug] TypeError: Cannot read property 'public' of undefined
+    at Server.<anonymous> (/usr/local/lib/node_modules/firebase-tools/commands/serve.js:26:15)
+    at Server.g (events.js:260:16)
+    at emitNone (events.js:67:13)
+    at Server.emit (events.js:166:7)
+    at emitListeningNT (net.js:1276:10)
+    at nextTickCallbackWith1Arg (node.js:431:9)
+    at process._tickCallback (node.js:353:17)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase --debug serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.5.0
+[debug] Time:         Sat Sep 17 2016 22:38:41 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/akshayadinesh/Downloads/Tutorial-master/Landing page
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[info] Shutting down...
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /usr/local/bin/node /usr/local/bin/firebase --debug serve
+[debug] CLI Version:  3.0.7
+[debug] Platform:     darwin
+[debug] Node Version: v4.5.0
+[debug] Time:         Sun Sep 18 2016 03:49:03 GMT-0400 (EDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/akshayadinesh/Downloads/Tutorial-master/Landing page
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
