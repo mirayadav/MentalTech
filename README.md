@@ -2,9 +2,7 @@
 VR + Web App that uses exposure therapy to help individuals with anxiety. Received the Linode API prize at Hack the North 2016.
 
 ## Website Screen Shots
-<img src="Screenshots/LandingPage.jpg" width="500">
-<img src="Screenshots/Results.jpg" width="500">
-<img src="Screenshots/Resources.jpg" width="500">
+<img src="Screenshots/LandingPage.jpg" width="500"> <img src="Screenshots/Results.jpg" width="500"> <img src="Screenshots/Resources.jpg" width="500">
 
 
 ## Reflection
